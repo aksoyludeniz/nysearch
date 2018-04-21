@@ -43,7 +43,7 @@ class Saved extends Component {
 
   render() {
     return (
-      <div className="container py-4 app-header">
+      <div className="container py-4">
         <div className="row">
           <div className="col-md-10 offset-md-1">
             <div className="jumbotron text-center">

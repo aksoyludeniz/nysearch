@@ -5,8 +5,7 @@ import { socket } from "../../utils/sockets";
 
 import API from "../../utils/api";
 
-import Article from
-
+import Article from "../../components/Article";
 
 class Home extends Component {
 
@@ -78,7 +77,7 @@ class Home extends Component {
   render() {
     return (
 
-      <div className="container py-4 App-header">
+      <div className="container py-4">
         <div className="row">
           <div className="col-md-10 offset-md-1">
             <div className="jumbotron text-center">
