@@ -23,7 +23,7 @@
     "body-parser": "^1.17.2",
     "build": "^0.1.4",
     "express": "^4.15.4",
-    "mongoose": "^4.11.7",
+    "mongoose": "^4.13.12",
     "react": "^16.3.2",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.3.2",
