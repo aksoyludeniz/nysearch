@@ -1,0 +1,9 @@
+.notification {
+    opacity: 8;
+    transition: 1s opacity;
+    pointer-events: none;
+}
+
+.fade-in {
+    opacity: 30;
+}
